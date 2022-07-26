@@ -13203,7 +13203,7 @@ form label {
 .login-form {
 	background-color: #fff;
     border-radius: 10px;
-    padding: 34px;
+    padding: 34px 34px 20px; 
     margin-top: 20px;
 }
 .one-login{
@@ -13213,7 +13213,7 @@ form label {
     height: auto;
     min-height: 100%;
     padding: 50px 60px 140px;
-    background-color: #e5e5e5;
+    /* background-color: #e5e5e5; */
     background-repeat: repeat;
     background-size: contain;
     width: 450px;
@@ -14212,15 +14212,12 @@ sup {
 	align-items: center;
 }
 .pie-bott{
-	background-image: url(../img/pie_pag.png);
-    background-size: contain;
-    background-position: top;
-    height: 56px;
-	width: 210px;
-	padding: 0px 22px;
-	position: absolute;
-    bottom: 0px;
-	left: 25%;
+	/* height: 56px; */
+    width: 210px;
+    padding: 0px 22px;
+    display: block;
+    margin: auto;
+    margin-top: 32px;
 }
 
 .pos-bott{
