@@ -13271,7 +13271,7 @@ form label {
 	background-position: center center;
 	/* background-size: cover; */
 	background-attachment: fixed;
-	background-position: left;
+	background-position: top left;
 }
 
 .fondo.page-registro {
